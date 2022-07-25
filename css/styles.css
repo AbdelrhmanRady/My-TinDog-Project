@@ -1,0 +1,152 @@
+#title{
+  background-color: #ff4c68;
+  margin-bottom: 0rem;
+  position: relative;
+  padding-bottom: 15rem;
+}
+.kaka{
+  padding-top: 3%;
+  padding-right: 15%;
+  padding-left: 15%;
+  padding-bottom: 0;
+}
+  h1{
+  font-family: "Montserrat-Black";
+  font-size: 3.5rem;
+  line-height: 1.5;
+  color: #fff;
+}
+body{
+font-family: 'Ubuntu', sans-serif;
+}
+.button{
+  padding-left: 33px;
+  padding-right: 33px;
+  margin: 7% 5% 5px 10px;
+}
+.navbar{
+  font-size: 20px;
+  margin-bottom: 2.5rem;
+  padding: 0;
+}
+.navbar-brand{
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.nav-link{
+  margin : 0 15px;
+font-family: "Montserrat-Light";
+}
+.titleIMG{
+  width: 60%;
+  transform: rotate(20deg);
+  margin-left: 8rem;
+  position: absolute;
+  top: 1rem;
+  right: 15%;
+  z-index: 1;
+}
+#features{
+  padding: 4% 15%;
+  background: #fff;
+  position: relative;
+  z-index: 2;
+}
+.infotext{
+text-align: center;
+padding: 6%;
+
+
+}
+h3{
+  font-family: "Montserrat-Bold";
+  font-size: 1.5rem;
+
+}
+.text{
+  color: #8f8f8f;
+
+}
+.icon{
+  color: #ef8172;
+  padding-bottom: 15px;
+}
+.icon:hover{
+  color: #ff4c68;
+}
+#testimonials{
+  background-color: #ef8172;
+  text-align: center;
+  color: #fff;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+h2{
+  font-family: "Montserrat-Bold";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+.doggie{
+  width: 10%;
+  border-radius: 100%;
+  text-align: center;
+  position: relative;
+  margin: 1.5rem;
+}
+#press{
+  text-align: center;
+  background-color: #ef8172;
+  padding-bottom: 3rem;
+}
+.pressimg{
+  width: 12%;
+  margin: 0 1.5rem;
+}
+#pricing{
+  padding: 7% 15%;
+  text-align: center;
+}
+.pricecol{
+  padding: 5% 2%;
+}
+
+.cardd{
+  padding-bottom: 40px;
+  width: 100%;
+}
+.butt{
+position: relative;
+top: 39px;
+}
+@media (max-width:1028px){
+
+  .titleIMG{
+    transform: rotate(0);
+    position: static;
+    margin-left: 0rem;
+    margin-top: 100px;
+  }
+  #title{
+    text-align: center ;
+  }
+}
+#cta{
+  padding: 7% 30%;
+  background-color: #ff4c68;
+  text-align: center;
+  margin-bottom: 50px;
+
+}
+.ctaText{
+
+  font-family: "Montserrat-Black";
+  font-size: 2.5rem;
+  color: #fff;
+}
+.social{
+  margin : 0 3px;
+}
+#footer{
+  text-align: center;
+}
